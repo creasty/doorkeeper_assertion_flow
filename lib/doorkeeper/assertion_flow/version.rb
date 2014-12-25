@@ -3,7 +3,7 @@ module Doorkeeper
 
     MAJOR    = 0
     MINOR    = 0
-    REVISION = 1
+    REVISION = 2
 
     VERSION = [MAJOR, MINOR, REVISION].compact.join '.'
 
