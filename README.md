@@ -1,3 +1,8 @@
+:warning: NO LONGER MAINTAINED :warning:  
+Use the official gem: https://github.com/doorkeeper-gem/doorkeeper-grants_assertion.
+
+---
+
 Doorkeeper Assertion Flow
 =========================
 
